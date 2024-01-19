@@ -1,0 +1,16 @@
+{
+    "get": "successfully get all booking.",
+    "UserId": "successfully get Booking By UserId. ",
+    "VehicalDriverId": "successfully get Booking By VehicalDriverId. ",
+    "list": " successfully get list of  Booking. ",
+    "create": "Your booking is created successfully.",
+    "delete": "Your booking is deleted successfully.",
+    "update": "Your booking is updated successfully.",
+    "bookingStatus": " successfully get All Bookings By bookingStatus.",
+    "bookingRequest": " successfully get All Bookings By bookingRequest.",
+    "error": {
+        "notFound": "Booking not found.",
+        "active": "Booking status active invalid",
+        "exist": "Booking exist"
+    }
+}

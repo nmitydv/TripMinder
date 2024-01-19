@@ -1,0 +1,18 @@
+export enum ENUM_AUTH_ACCESS_FOR_ADMIN {
+    ADMIN = 'Admin',
+}
+
+export enum ENUM_AUTH_ACCESS_FOR_DEFAULT {
+    USER = 'User',
+    DRIVER = 'Driver',
+    VEHICLE_OWNER = 'VehicleOwner'
+}
+
+export const ENUM_AUTH_ACCESS_FOR = {
+    ...ENUM_AUTH_ACCESS_FOR_ADMIN,
+    ...ENUM_AUTH_ACCESS_FOR_DEFAULT,
+};
+
+export type ENUM_AUTH_ACCESS_FOR =
+    | ENUM_AUTH_ACCESS_FOR_ADMIN
+    | ENUM_AUTH_ACCESS_FOR_DEFAULT;

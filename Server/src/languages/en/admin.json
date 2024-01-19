@@ -1,0 +1,6 @@
+{
+    "get":"get admin succeed",
+    "error": {
+        "notFound": "admin not found."
+    }
+}

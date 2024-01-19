@@ -1,0 +1,17 @@
+{
+    "list": "Successfully get list of users.",
+    "get": "Successfully Vehicle Success.",
+    "create": "Your vehicle is Created successfully.",
+    "delete": "Your vehicle is deleted successfully. ",
+    "update": "Your vehicle is updated successfully. ",
+    "profile": "Profile Success",
+    "upload": "Upload Success",
+    "inactive": "Your vehicle is inactive successfully. ",
+    "active": "Your vehicle is active successfully.",
+    "refresh": "Refresh token success",
+    "error": {
+        "notFound": "Vehicle not found.",
+        "active": "Vehicle status active invalid",
+        "inactive": "User is inactive"
+    }
+}

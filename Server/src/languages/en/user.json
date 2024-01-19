@@ -1,0 +1,27 @@
+{
+    "list": "Successfully get list of users.",
+    "get": "Successfully get User.",
+    "create": "Successfully created user.",
+    "delete": "Successfully deleted user.",
+    "update": "Successfully update user.",
+    "profile": "Profile Success.",
+    "upload": "Uploaded successfully.",
+    "inactive": " Successfully user inactive.",
+    "active": " User is active Successfully.",
+    "login": " Successfully Login. ",
+    "refresh": "Refresh token success",
+    "signUp": "Sign up Successfully",
+    "signIn": "Sign in Successfully",
+    "approve": "Vehical is approved Successfully",
+    "error": {
+        "notFound": "User not found.",
+        "emailExist": "Email user used",
+        "mobileNumberExist": "Mobile Number user used",
+        "active": "User status active invalid",
+        "exist": "User exist",
+        "passwordNotMatch": "Password not match",
+        "newPasswordMustDifference": "Old password must difference",
+        "inactive": "User is inactive",
+        "passwordExpired": "User password expired"
+    }
+}

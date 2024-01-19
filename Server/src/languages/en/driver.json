@@ -1,0 +1,17 @@
+{
+    "list": "Successfully get list of driver.",
+    "get": "Successfully get list of driver.",
+    "create": "Successfully created driver.",
+    "delete": "Successfully deleted driver.",
+    "update": "Successfully updated driver.",
+    "upload": "Upload Success",
+    "inactive": "Successfully driver inactive.",
+    "active": "Successfully driver active",
+    "refresh": "Refresh token success",
+    "Approve": "Successfully driver Approve",
+    "error": {
+        "notFound": "Driver not found.",
+        "active": "Driver status active invalid",
+        "inactive": "Driver is inactive"
+    }
+}

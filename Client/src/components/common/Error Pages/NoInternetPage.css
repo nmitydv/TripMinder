@@ -1,0 +1,16 @@
+
+.noInternet_image {
+    display: flex;
+    justify-content: center;
+    
+    height: 400px;
+}
+.Connection_text{
+    width: 550px;
+    font-size: 23px;
+    padding: 10px;
+}
+.noInternet_button{
+    display: flex;
+    justify-content: center;
+}
