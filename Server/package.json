@@ -1,13 +1,13 @@
 {
-  "name": "apna-yatri-service",
+  "name": "tripminder-service",
   "version": "1.0.0",
-  "description": "Apna-yatri",
+  "description": "tripminder",
   "repository": {
     "type": "git"
   },
   "author": {
-    "name": "Kuldeep Panwar",
-    "email": "kuldeeppanwar@ssism.org"
+    "name": "Namit Yadav",
+    "email": "yadavnamit605@gmail.com"
   },
   "private": true,
   "license": "MIT",
